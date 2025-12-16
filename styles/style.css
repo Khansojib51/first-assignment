@@ -103,3 +103,21 @@
     padding: 20px 0;
     box-shadow: 4px 4px 8px rgba(128, 128, 128, 0.096);
 }
+
+/* Video container styles */
+.video-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* text-align: center; */
+    align-items: center;
+    margin-top: 40px;
+    gap: 48;
+}
+
+.video-box {
+    border: 1px solid #0d132133;
+    padding: 30px;
+    border-radius: 15px;
+    margin-top: 30px;
+}
