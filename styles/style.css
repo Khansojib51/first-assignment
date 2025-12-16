@@ -11,6 +11,9 @@
     padding: 30px 0;
 }
 
+.banner-container a{
+    text-decoration: none;
+}
 .resume {
     padding: 10px 15px;
     background-color: #ffffff;
